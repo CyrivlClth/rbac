@@ -1,8 +1,8 @@
 package adapter
 
 import (
-	"rbac/db"
-	"rbac/rbac"
+	"github.com/CyrivlClth/rbac/db"
+	"github.com/CyrivlClth/rbac/rbac"
 
 	_ "github.com/jinzhu/gorm/dialects/sqlite"
 )
