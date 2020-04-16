@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"rbac/rbac"
+	"github.com/CyrivlClth/rbac/rbac"
 )
 
 func TestAccountAdapter(t *testing.T) {
